@@ -1,0 +1,15 @@
+h1{
+    color: darkblue;
+}
+app-warning-alert{
+    color: red;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+app-success-alert{
+    color: green;
+    font-weight: bold;
+    font-size: 35px;
+   
+}
